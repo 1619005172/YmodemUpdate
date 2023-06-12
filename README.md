@@ -15,6 +15,6 @@
 在文件虚拟环境下执行此命令
 
 ```shell
-python setup build
+python setup.py build
 ```
 
